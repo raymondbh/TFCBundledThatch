@@ -1,0 +1,12 @@
+[
+{
+  "modid": "tfcbt",
+  "name": "TFCBundledThatch",
+  "version": "0.1.0",
+  "updateUrl": "",
+  "authors": [
+    "rbh"
+  ],
+  "description": "Adds Bundled Thatch to TerraFirmaCraft that you cannot walk through."
+}
+]
